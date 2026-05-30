@@ -1,0 +1,157 @@
+<svg width="1500"
+     height="180"
+     viewBox="0 0 1500 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Background -->
+    <rect width="1500"
+          height="180"
+          fill="#000000"/>
+
+    <!-- Top Divider -->
+    <line x1="150"
+          y1="1"
+          x2="1350"
+          y2="1"
+          stroke="#1A1A1A"
+          stroke-width="1"/>
+
+    <!-- Status -->
+
+    <text x="80"
+          y="70"
+          fill="#707070"
+          font-family="monospace"
+          font-size="11"
+          letter-spacing="4">
+        STATUS
+    </text>
+
+    <circle cx="85"
+            cy="105"
+            r="4"
+            fill="#00FF66">
+
+        <animate attributeName="opacity"
+                 values="1;0.3;1"
+                 dur="2s"
+                 repeatCount="indefinite"/>
+
+    </circle>
+
+    <text x="100"
+          y="109"
+          fill="#BDBDBD"
+          font-family="monospace"
+          font-size="13"
+          letter-spacing="3">
+        AVAILABLE_FOR_WORK
+    </text>
+
+    <!-- CONNECT -->
+
+    <text x="750"
+          y="75"
+          text-anchor="middle"
+          fill="#666666"
+          font-family="monospace"
+          font-size="11"
+          letter-spacing="6">
+        CONNECT
+    </text>
+
+    <!-- Perfectly Centered Links -->
+
+    <text x="750"
+          y="115"
+          text-anchor="middle"
+          fill="#FFFFFF"
+          font-family="monospace"
+          font-size="15"
+          letter-spacing="4">
+        GITHUB • LINKEDIN • EMAIL
+    </text>
+
+    <!-- Clickable Areas -->
+
+    <a href="https://github.com/Abhiram918"
+       target="_blank">
+        <rect x="510"
+              y="92"
+              width="130"
+              height="30"
+              fill="transparent"/>
+    </a>
+
+    <a href="https://linkedin.com/in/abhiramshibu"
+       target="_blank">
+        <rect x="680"
+              y="92"
+              width="200"
+              height="30"
+              fill="transparent"/>
+    </a>
+
+    <a href="mailto:abhiramshibu918@gmail.com">
+        <rect x="930"
+              y="92"
+              width="110"
+              height="30"
+              fill="transparent"/>
+    </a>
+
+    <!-- Right Glyph -->
+
+    <g>
+
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            from="0 1380 90"
+            to="-360 1380 90"
+            dur="80s"
+            repeatCount="indefinite"/>
+
+        <circle cx="1380"
+                cy="90"
+                r="30"
+                fill="none"
+                stroke="#1F1F1F"
+                stroke-width="1"/>
+
+        <circle cx="1380"
+                cy="90"
+                r="18"
+                fill="none"
+                stroke="#333333"
+                stroke-width="1"/>
+
+        <circle cx="1410"
+                cy="90"
+                r="2"
+                fill="#808080"/>
+
+    </g>
+
+    <!-- Bottom Divider -->
+
+    <line x1="550"
+          y1="140"
+          x2="950"
+          y2="140"
+          stroke="#1A1A1A"
+          stroke-width="1"/>
+
+    <!-- Footer Status -->
+
+    <text x="750"
+          y="165"
+          text-anchor="middle"
+          fill="#4F4F4F"
+          font-family="monospace"
+          font-size="10"
+          letter-spacing="8">
+        © 2026 ABHIRAM SHIBU // SYSTEM ONLINE
+    </text>
+
+</svg>
