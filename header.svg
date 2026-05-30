@@ -1,0 +1,170 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Nothing Dot Matrix -->
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="1.1" fill="#151515"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Pure Nothing Background -->
+  <rect width="1500" height="500" fill="#000000"/>
+  <rect width="1500" height="500" fill="url(#dots)"/>
+
+  <!-- REC -->
+  <circle cx="55"
+          cy="55"
+          r="5"
+          fill="#FF3B30">
+    <animate attributeName="opacity"
+             values="1;0.15;1"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72"
+        y="60"
+        fill="#707070"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="4">
+    REC 01
+  </text>
+
+  <!-- Nothing Glyph -->
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 1300 110"
+      to="360 1300 110"
+      dur="60s"
+      repeatCount="indefinite"/>
+
+    <circle cx="1300"
+            cy="110"
+            r="40"
+            fill="none"
+            stroke="#1E1E1E"/>
+
+    <circle cx="1300"
+            cy="110"
+            r="24"
+            fill="none"
+            stroke="#2B2B2B"/>
+
+    <circle cx="1340"
+            cy="110"
+            r="2"
+            fill="#777777"/>
+
+  </g>
+
+  <!-- Name -->
+  <text x="750"
+        y="215"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-family="monospace"
+        font-size="82"
+        font-weight="700"
+        letter-spacing="14">
+
+    ABHIRAM SHIBU
+
+    <animate attributeName="opacity"
+             values="1;0.97;1"
+             dur="6s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+  <!-- Subtitle -->
+  <text x="750"
+        y="275"
+        text-anchor="middle"
+        fill="#BDBDBD"
+        font-family="monospace"
+        font-size="17"
+        letter-spacing="6">
+
+    FULL STACK DEVELOPER / AI ENGINEER
+
+  </text>
+
+  <!-- Loader -->
+  <g transform="translate(640 325)">
+
+    <rect x="0" width="22" height="3" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;.2;.2;.2;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="32" width="22" height="3" fill="#FFFFFF">
+      <animate attributeName="opacity" values=".2;1;.2;.2;.2" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="64" width="22" height="3" fill="#FFFFFF">
+      <animate attributeName="opacity" values=".2;.2;1;.2;.2" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="96" width="22" height="3" fill="#FFFFFF">
+      <animate attributeName="opacity" values=".2;.2;.2;1;.2" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="128" width="22" height="3" fill="#FFFFFF">
+      <animate attributeName="opacity" values=".2;.2;.2;.2;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+
+  <!-- Gapless Skills Ticker -->
+  <g font-family="monospace"
+     font-size="20"
+     font-weight="bold"
+     fill="#8A8A8A">
+
+    <text y="390"
+          textLength="3200"
+          lengthAdjust="spacing">
+
+      <animate attributeName="x"
+               from="0"
+               to="-3200"
+               dur="38s"
+               repeatCount="indefinite"/>
+
+      PYTHON // DJANGO // DRF // HTML5 // CSS3 // JAVASCRIPT // MYSQL // MONGODB // SQLITE // AWS (EC2/S3/RDS) // GIT // GITHUB_ACTIONS // LINUX // NGINX // GUNICORN // FIGMA // WEBFLOW // FRAMER // REST_APIS // JWT_AUTH // ORM_OPTIMIZATION // MODULAR_ARCH //
+
+    </text>
+
+    <text y="390"
+          textLength="3200"
+          lengthAdjust="spacing">
+
+      <animate attributeName="x"
+               from="3200"
+               to="0"
+               dur="38s"
+               repeatCount="indefinite"/>
+
+      PYTHON // DJANGO // DRF // HTML5 // CSS3 // JAVASCRIPT // MYSQL // MONGODB // SQLITE // AWS (EC2/S3/RDS) // GIT // GITHUB_ACTIONS // LINUX // NGINX // GUNICORN // FIGMA // WEBFLOW // FRAMER // REST_APIS // JWT_AUTH // ORM_OPTIMIZATION // MODULAR_ARCH //
+
+    </text>
+
+  </g>
+
+  <!-- Status -->
+  <text x="750"
+        y="445"
+        text-anchor="middle"
+        fill="#666666"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="8">
+    SYSTEM ONLINE
+  </text>
+
+</svg>
