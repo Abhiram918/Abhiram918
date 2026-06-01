@@ -9,22 +9,35 @@ Full Stack Developer and AI Engineer based in India. Specializing in high-perfor
 
 ---
 
-### Skills
+### Skills Matrix
 
-- [x] **Languages** <br>
-<kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
+<details>
+  <summary><strong> ↳ CORE ENGINEERING </strong></summary>
+  <br>
+  <kbd>Python</kbd> &nbsp; <kbd>Django</kbd> &nbsp; <kbd>Django REST Framework</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd>
+  <br><br>
+</details>
 
-- [x] **Frameworks** <br>
-<kbd>Django</kbd> <kbd>Django REST Framework</kbd>
+<details>
+  <summary><strong> ↳ DATA & ARCHITECTURE </strong></summary>
+  <br>
+  <kbd>MySQL</kbd> &nbsp; <kbd>MongoDB</kbd> &nbsp; <kbd>SQLite</kbd> &nbsp; <kbd>REST APIs</kbd> &nbsp; <kbd>Modular Architecture</kbd>
+  <br><br>
+</details>
 
-- [x] **Databases & Architecture** <br>
-<kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>SQLite</kbd> <kbd>REST APIs</kbd>
+<details>
+  <summary><strong> ↳ AI & COMPUTER VISION </strong></summary>
+  <br>
+  <kbd>OpenCV</kbd> &nbsp; <kbd>YOLOv3</kbd> &nbsp; <kbd>Agentic APIs</kbd>
+  <br><br>
+</details>
 
-- [x] **AI & Computer Vision** <br>
-<kbd>OpenCV</kbd> <kbd>YOLOv3</kbd> <kbd>Agentic APIs</kbd>
-
-- [x] **Infrastructure & Deployment** <br>
-<kbd>AWS</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>Git</kbd> <kbd>Nginx</kbd> <kbd>Gunicorn</kbd>
+<details>
+  <summary><strong> ↳ INFRASTRUCTURE & DEPLOYMENT </strong></summary>
+  <br>
+  <kbd>AWS</kbd> &nbsp; <kbd>Docker</kbd> &nbsp; <kbd>Linux</kbd> &nbsp; <kbd>Git</kbd> &nbsp; <kbd>Nginx</kbd> &nbsp; <kbd>Gunicorn</kbd>
+  <br><br>
+</details>
 
 ---
 
