@@ -4,22 +4,33 @@
 
 <br>
 
-### :: ABOUT
+### :: About
 Full Stack Developer and AI Engineer based in India. Specializing in high-performance backend architectures, real-time processing, and scalable relational databases. Focused on clean, functional code and robust system design.
 
 ---
 
-### :: TECH_STACK
-* **`LANGUAGES`** : `Python` `JavaScript` `HTML5` `CSS3`
-* **`FRAMEWORKS`** : `Django` `Django REST Framework`
-* **`DATABASES`** : `MySQL` `MongoDB` `SQLite`
-* **`AI_&_VISION`** : `OpenCV` `YOLOv3` `Agentic APIs`
-* **`INFRA_&_OPS`** : `AWS (EC2/S3/RDS)` `Docker` `Linux` `Nginx` `Gunicorn` `Git`
-* **`UI_&_DESIGN`** : `Figma` `Webflow` `Framer`
+### :: Skills
+
+<dl>
+  <dt><strong>Languages &amp; Frameworks</strong></dt>
+  <dd>Python • Django • DRF • JavaScript • HTML5 • CSS3</dd>
+
+  <dt><strong>Databases</strong></dt>
+  <dd>MySQL • MongoDB • SQLite</dd>
+
+  <dt><strong>AI &amp; Vision</strong></dt>
+  <dd>OpenCV • YOLOv3 • Agentic APIs</dd>
+
+  <dt><strong>DevOps &amp; Tools</strong></dt>
+  <dd>AWS • Docker • GitHub Actions • Linux • Nginx • Gunicorn • Git</dd>
+
+  <dt><strong>Architecture</strong></dt>
+  <dd>REST APIs • JWT Auth • ORM Optimization • Modular Architecture</dd>
+</dl>
 
 ---
 
-### :: CONNECT
+### :: Connect
 <a href="https://github.com/Abhiram918">
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
