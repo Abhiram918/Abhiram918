@@ -21,25 +21,9 @@ I am a Full Stack Developer and AI Engineer based in India, specializing in high
 
 ---
 
-### Projects
-
-**Cliq Mart**
-A multi-vendor eCommerce platform featuring strictly isolated modules for admin, seller, and customer functions. Engineered with Django and MySQL for secure, high-concurrency order processing.
-
-**Voice-Guided Vision**
-A computer vision application utilizing Python, OpenCV, and YOLOv3 to provide real-time audio feedback for dynamic environment mapping and precise object identification.
-
-**SirCake**
-A vendor management and order routing platform built for multi-seller environments, featuring live status tracking and complex vendor inventory synchronization. Built with Django and MySQL.
-
-**Dress Configurator**
-An interactive web application handling complex matrix logic for dynamic product configuration with multiple interactive selection variables. Built with Django, MySQL, and JavaScript.
-
----
-
 ### Contact
 
-<a href="https://github.com/Abhiram918">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
+<a href="https://github.com/Abhiram918">GitHub</a> • <a href="https://linkedin.com/in/abhiramshibu">LinkedIn</a> • <a href="mailto:Abhiramshibu918@gmail.com">Email</a>
 
 <br>
 
