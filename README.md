@@ -6,29 +6,30 @@
 
 ### About Me
 
-I am a Full Stack Developer and AI Engineer based in India, specializing in high-performance backend architectures, real-time processing, and scalable relational databases. I focus on writing clean, functional code and building data-driven applications.
+I build scalable backend systems and real-time AI processing applications. As a Full Stack Developer and AI Engineer based in India, my focus is on delivering functional, high-performance architecture and writing clean, maintainable code.
 
 ---
 
 ### Skills
 
-| Focus Area | Technologies |
+| | |
 | :--- | :--- |
-| **Languages & Frameworks** | `Python` `Django` `DRF` `JavaScript` `HTML5` `CSS3` |
-| **Databases** | `MySQL` `MongoDB` `SQLite` |
+| **Backend & Architecture** | `Python` `Django` `DRF` `REST APIs` `Modular Architecture` |
+| **Databases** | `MySQL` `MongoDB` `SQLite` `ORM Optimization` |
 | **AI & Vision** | `OpenCV` `YOLOv3` `Agentic APIs` |
-| **Cloud & DevOps** | `AWS (EC2, S3, RDS)` `Git` `GitHub Actions` `Linux` `Nginx` `Gunicorn` |
-| **Architecture** | `REST APIs` `JWT Auth` `ORM Optimization` `Modular Architecture` |
-| **Design Tools** | `Figma` `Webflow` `Framer` |
+| **Infrastructure & Tools** | `AWS (EC2, S3, RDS)` `Linux` `Docker` `Nginx` `Git` |
+| **Frontend & Design** | `JavaScript` `HTML5` `CSS3` `Figma` `Webflow` |
 
 ---
-
-### Contact
-
-<a href="https://github.com/Abhiram918">GitHub</a> • <a href="https://linkedin.com/in/abhiramshibu">LinkedIn</a> • <a href="mailto:Abhiramshibu918@gmail.com">Email</a>
 
 <br>
 
 <div align="center">
-  <img src="footer.svg" alt="Footer" width="100%" />
+  <a href="https://github.com/Abhiram918"><strong>GitHub</strong></a> &nbsp; • &nbsp; <a href="https://linkedin.com/in/abhiramshibu"><strong>LinkedIn</strong></a> &nbsp; • &nbsp; <a href="mailto:Abhiramshibu918@gmail.com"><strong>Email</strong></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="footer.svg" alt="System Standby" width="100%" />
 </div>
