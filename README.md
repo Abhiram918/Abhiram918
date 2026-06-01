@@ -22,7 +22,9 @@ I'm a Full Stack Developer and AI Engineer based in India — building high-perf
 
 **`// SKILLS`**
 
-<img src="skills.html" width="100%" />
+<a href="https://abhiram918.github.io/Abhiram918/skills.html">
+  <img src="https://img.shields.io/badge/VIEW_SKILLS-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Skills" />
+</a>
 
 <br>
 
