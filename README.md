@@ -12,12 +12,14 @@ I am a Full Stack Developer and AI Engineer based in India, specializing in high
 
 ### Skills
 
-* **Languages & Frameworks:** Python, Django, Django REST Framework, JavaScript, HTML5, CSS3
-* **Databases:** MySQL, MongoDB, SQLite
-* **AI & Computer Vision:** OpenCV, YOLOv3, Agentic APIs
-* **Cloud & DevOps:** AWS (EC2, S3, RDS), Git, GitHub Actions, Linux, Nginx, Gunicorn
-* **Architecture:** REST APIs, JWT Authentication, ORM Optimization, Modular Architecture
-* **Design Tools:** Figma, Webflow, Framer
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | `Python` `Django` `DRF` `JavaScript` `HTML5` `CSS3` |
+| **Databases** | `MySQL` `MongoDB` `SQLite` |
+| **AI & Vision** | `OpenCV` `YOLOv3` `Agentic APIs` |
+| **Cloud & DevOps** | `AWS (EC2, S3, RDS)` `Git` `GitHub Actions` `Linux` `Nginx` `Gunicorn` |
+| **Architecture** | `REST APIs` `JWT Auth` `ORM Optimization` `Modular Architecture` |
+| **Design Tools** | `Figma` `Webflow` `Framer` |
 
 ---
 
