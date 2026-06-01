@@ -28,7 +28,7 @@ I am a Full Stack Developer and AI Engineer based in India, specializing in high
 <br>
 
 <div align="center">
-  <a href="https://github.com/Abhiram918"><img src="https://cdn.simpleicons.org/github/white" width="32" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/abhiramshibu"><img src="https://cdn.simpleicons.org/linkedin/white" width="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Abhiramshibu918@gmail.com"><img src="https://cdn.simpleicons.org/gmail/white" width="32" alt="Email" /></a>
+  <a href="https://github.com/Abhiram918"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/abhiramshibu"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Abhiramshibu918@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
 </div>
 
 <br>
