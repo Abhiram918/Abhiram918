@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="header.svg" alt="Abhiram Shibu" width="100%" />
 </div>
 
@@ -36,3 +36,4 @@ I am a Full Stack Developer and AI Engineer based in India, specializing in high
 <div align="center">
   <img src="footer.svg" alt="Footer" width="100%" />
 </div>
+](https://github.com/tandpfun/skill-icons#specifying-icons)
