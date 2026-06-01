@@ -4,24 +4,30 @@
 
 <br>
 
-### About
+### About Me
 Full Stack Developer and AI Engineer based in India. Specializing in high-performance backend architectures, real-time processing, and scalable relational databases. Focused on clean, functional code and robust system design.
 
 ---
 
 ### Skills
 
-**CORE ENGINEERING**
-> Python // Django // Django REST Framework // JavaScript // HTML5 // CSS3
+**Core Engineering**<br>
+<kbd>Python</kbd> <kbd>Django</kbd> <kbd>Django REST Framework</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
 
-**DATABASE & ARCHITECTURE**
-> MySQL // MongoDB // SQLite // REST APIs // Modular Architecture
+<br>
 
-**AI & COMPUTER VISION**
-> OpenCV // YOLOv3 // Agentic APIs 
+**Data & Architecture**<br>
+<kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>SQLite</kbd> <kbd>REST APIs</kbd> <kbd>Modular Architecture</kbd>
 
-**INFRASTRUCTURE & DEPLOYMENT**
-> AWS // Docker // Linux // Git // Nginx // Gunicorn
+<br>
+
+**AI & Computer Vision**<br>
+<kbd>OpenCV</kbd> <kbd>YOLOv3</kbd> <kbd>Agentic APIs</kbd>
+
+<br>
+
+**Infrastructure & Deployment**<br>
+<kbd>AWS</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>Git</kbd> <kbd>Nginx</kbd> <kbd>Gunicorn</kbd>
 
 ---
 
