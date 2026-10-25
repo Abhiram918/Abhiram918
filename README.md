@@ -6,81 +6,103 @@
 
 <div align="center">
 
-FULL-STACK DEVELOPER · AI ENGINEERING
+`PROFILE / 001`
 
-Building thoughtful software, from backend systems to user-facing applications.
+### FULL-STACK DEVELOPER
 
-[GitHub](https://github.com/Abhiram918) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/abhiramshibu) &nbsp; / &nbsp; [Email](mailto:Abhiramshibu918@gmail.com)
+Designing interfaces. Engineering backends. Building complete applications.
+
+`FRONTEND` / `BACKEND` / `DATABASES` / `DEPLOYMENT`
 
 </div>
 
-<br>
+---
+
+### `01` / About
+
+I'm a Full-Stack Developer based in India, interested in building complete software applications — from user interfaces and backend logic to data management and deployment.
+
+I work primarily with Python, Django REST Framework, JavaScript, and relational databases. I also explore computer vision, AI integration, and desktop application development.
+
+My focus is on building practical software with clear architecture, maintainable code, and functionality that extends beyond a local development environment.
 
 ---
 
-### About
+### `02` / Selected Work
 
-I am a Full Stack Developer based in India, interested in backend engineering, application architecture, and practical AI applications.
-
-I work across Python, Django REST Framework, JavaScript, databases, and cloud deployment. My interests also include computer vision and building applications that connect reliable backend systems with useful user experiences.
-
-I value clear implementation, maintainable code, and understanding how software behaves beyond the development environment.
-
----
-
-### Selected Work
-
-**[SirCake](https://github.com/Abhiram918/SirCake)**
+**01 — [SirCake](https://github.com/Abhiram918/SirCake)**
 
 A multi-vendor e-commerce project with distinct workflows for customers, sellers, and delivery personnel.
 
-`Python` &nbsp; `Django`
+`PYTHON` · `DJANGO`
 
 ---
 
-**[Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
+**02 — [Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
 
-A computer vision project exploring object detection and voice-guided interaction.
+A computer vision project combining object detection with voice-guided interaction.
 
-`Python` &nbsp; `OpenCV` &nbsp; `YOLOv3`
-
----
-
-**Balance**
-
-A Windows digital wellbeing application built with Flutter. It focuses on application usage tracking, app limits, and focus sessions, with local data persistence and Windows integration.
-
-`Flutter` &nbsp; `Dart` &nbsp; `Windows`
+`PYTHON` · `OPENCV` · `YOLOv3`
 
 ---
 
-### Technical Skills
+**03 — Balance**
 
-| Area | Technologies |
+A Windows digital wellbeing application built with Flutter, focused on application usage tracking, app limits, and focus sessions.
+
+`FLUTTER` · `DART` · `WINDOWS`
+
+---
+
+### `03` / Technology
+
+| Layer | Technologies |
 | :--- | :--- |
-| Languages | `Python` `JavaScript` `Dart` `HTML` `CSS` |
-| Backend | `Django` `Django REST Framework` `REST APIs` `JWT Authentication` |
-| Databases | `MySQL` `SQLite` `MongoDB` |
-| AI & Computer Vision | `OpenCV` `YOLOv3` `AI API Integration` |
-| Cloud & Deployment | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` |
-| Tools | `Git` `GitHub Actions` `Docker` `Figma` |
+| **Frontend** | `JavaScript` `HTML5` `CSS3` |
+| **Backend** | `Python` `Django` `Django REST Framework` |
+| **APIs & Security** | `REST APIs` `JWT Authentication` |
+| **Databases** | `MySQL` `SQLite` `MongoDB` |
+| **AI & Computer Vision** | `OpenCV` `YOLOv3` `AI API Integration` |
+| **Cloud & Deployment** | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` |
+| **Desktop Development** | `Flutter` `Dart` `Windows` |
+| **Tools** | `Git` `GitHub Actions` `Docker` `Figma` |
 
 ---
 
-### Approach
+### `04` / Engineering
 
-I enjoy working through the full lifecycle of an application: understanding the problem, structuring the data, implementing the backend, building the interface, and deploying the result.
+```text
+INTERFACE
+  └── Build clear, usable experiences
 
-My goal is to keep learning through projects that require more than simply making something work — projects that demand thoughtful engineering decisions.
+APPLICATION
+  └── Implement business logic and API integration
+
+DATA
+  └── Structure, persist, and retrieve information
+
+DEPLOYMENT
+  └── Configure services and run applications
+```
+
+I enjoy working across these layers and understanding how they connect to form a complete product.
 
 ---
 
-### Contact
+### `05` / Contact
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Abhiram918"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/abhiramshibu"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Abhiramshibu918@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
+</div>
+
+<br>
+
+<div align="center">
+
+`BUILD / TEST / ITERATE`
+
 </div>
 
 <br>
