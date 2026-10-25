@@ -4,12 +4,11 @@
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building practical web and desktop applications. I work primarily with Python, Django, JavaScript, and MySQL, with experience in REST APIs, cloud deployment, and application development from backend to frontend.
+I'm a Full-Stack Developer based in India, focused on building complete web applications, reliable backend systems, and practical software products.
 
-- BCA graduate from STAS Pullarikkunu
-- Experience building multi-vendor platforms and role-based applications
-- Familiar with deploying applications using AWS, Nginx, and Gunicorn
-- Currently developing **Balance**, a Windows digital wellbeing application
+I work with Python, Django, JavaScript, and relational databases across frontend development, backend engineering, API integration, and deployment. My projects also explore computer vision and Windows desktop application development.
+
+I enjoy turning requirements into working applications, with an emphasis on maintainable code, clear architecture, and functionality that holds up beyond development.
 
 ## Skills
 
