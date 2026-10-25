@@ -6,99 +6,81 @@
 
 <div align="center">
 
-`SYSTEM PROFILE / 001`
+FULL-STACK DEVELOPER · AI ENGINEERING
 
-### FULL-STACK DEVELOPER · AI ENGINEERING
+Building thoughtful software, from backend systems to user-facing applications.
 
-Building complete applications. Understanding systems. Solving practical problems.
-
-`PYTHON` / `DJANGO` / `JAVASCRIPT` / `COMPUTER VISION`
+[GitHub](https://github.com/Abhiram918) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/abhiramshibu) &nbsp; / &nbsp; [Email](mailto:Abhiramshibu918@gmail.com)
 
 </div>
 
----
-
-### `01` / About Me
-
-I am a Full Stack Developer and AI Engineer based in India, interested in building complete software applications, reliable backend systems, and practical AI-powered solutions.
-
-My work spans Python and Django REST Framework, frontend development with JavaScript, database design, and cloud deployment. I also explore computer vision and AI integration, with an emphasis on connecting application logic, data, and user-facing functionality.
-
-I enjoy understanding how software works as a complete system — from API design and persistence to deployment and runtime behavior.
+<br>
 
 ---
 
-### `02` / Engineering Stack
+### About
 
-| Focus Area | Technologies |
+I am a Full Stack Developer based in India, interested in backend engineering, application architecture, and practical AI applications.
+
+I work across Python, Django REST Framework, JavaScript, databases, and cloud deployment. My interests also include computer vision and building applications that connect reliable backend systems with useful user experiences.
+
+I value clear implementation, maintainable code, and understanding how software behaves beyond the development environment.
+
+---
+
+### Selected Work
+
+**[SirCake](https://github.com/Abhiram918/SirCake)**
+
+A multi-vendor e-commerce project with distinct workflows for customers, sellers, and delivery personnel.
+
+`Python` &nbsp; `Django`
+
+---
+
+**[Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
+
+A computer vision project exploring object detection and voice-guided interaction.
+
+`Python` &nbsp; `OpenCV` &nbsp; `YOLOv3`
+
+---
+
+**Balance**
+
+A Windows digital wellbeing application built with Flutter. It focuses on application usage tracking, app limits, and focus sessions, with local data persistence and Windows integration.
+
+`Flutter` &nbsp; `Dart` &nbsp; `Windows`
+
+---
+
+### Technical Skills
+
+| Area | Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | `Python` `Django` `DRF` `JavaScript` `HTML5` `CSS3` `Flutter` `Dart` |
-| **Databases** | `MySQL` `MongoDB` `SQLite` |
-| **AI & Vision** | `OpenCV` `YOLOv3` `AI API Integration` |
-| **Cloud & Infrastructure** | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` `Docker` |
-| **Backend Engineering** | `REST APIs` `JWT Authentication` `ORM Optimization` `Modular Architecture` |
-| **Development Tools** | `Git` `GitHub Actions` `Figma` `Webflow` `Framer` |
+| Languages | `Python` `JavaScript` `Dart` `HTML` `CSS` |
+| Backend | `Django` `Django REST Framework` `REST APIs` `JWT Authentication` |
+| Databases | `MySQL` `SQLite` `MongoDB` |
+| AI & Computer Vision | `OpenCV` `YOLOv3` `AI API Integration` |
+| Cloud & Deployment | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` |
+| Tools | `Git` `GitHub Actions` `Docker` `Figma` |
 
 ---
 
-### `03` / Selected Projects
+### Approach
 
-**[01 — SirCake](https://github.com/Abhiram918/SirCake)**
+I enjoy working through the full lifecycle of an application: understanding the problem, structuring the data, implementing the backend, building the interface, and deploying the result.
 
-A multi-vendor e-commerce project built around distinct customer, seller, and delivery workflows.
-
-`PYTHON` · `DJANGO`
+My goal is to keep learning through projects that require more than simply making something work — projects that demand thoughtful engineering decisions.
 
 ---
 
-**[02 — Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
-
-A computer vision project combining object detection with voice-guided interaction.
-
-`PYTHON` · `OPENCV` · `YOLOv3`
-
----
-
-**[03 — Balance](#balance)**
-
-A Windows digital wellbeing application built with Flutter, focused on application usage tracking, app limits, and focus sessions.
-
-`FLUTTER` · `DART` · `WINDOWS`
-
----
-
-### `04` / Engineering Approach
-
-```text
-01  DESIGN
-    Define the problem, data model, and system boundaries.
-
-02  BUILD
-    Develop application logic, APIs, and user interfaces.
-
-03  INTEGRATE
-    Connect persistence, external services, and platform features.
-
-04  DEPLOY
-    Configure the runtime environment and verify real-world behavior.
-```
-
----
-
-### `05` / Contact
+### Contact
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Abhiram918"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/abhiramshibu"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Abhiramshibu918@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
-</div>
-
-<br>
-
-<div align="center">
-
-`BUILDING / LEARNING / ITERATING`
-
 </div>
 
 <br>
