@@ -6,103 +6,81 @@
 
 <div align="center">
 
-`PROFILE / 001`
+FULL-STACK DEVELOPER
 
-### FULL-STACK DEVELOPER
+Building complete applications, from interface to infrastructure.
 
-Designing interfaces. Engineering backends. Building complete applications.
-
-`FRONTEND` / `BACKEND` / `DATABASES` / `DEPLOYMENT`
+[GitHub](https://github.com/Abhiram918) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/abhiramshibu) &nbsp; / &nbsp; [Email](mailto:Abhiramshibu918@gmail.com)
 
 </div>
 
 ---
 
-### `01` / About
+### About
 
-I'm a Full-Stack Developer based in India, interested in building complete software applications — from user interfaces and backend logic to data management and deployment.
+I'm a Full-Stack Developer based in India, interested in building practical software across the frontend, backend, and deployment layers.
 
-I work primarily with Python, Django REST Framework, JavaScript, and relational databases. I also explore computer vision, AI integration, and desktop application development.
+I work primarily with Python, Django REST Framework, JavaScript, and databases. My experience and projects also extend into cloud deployment, computer vision, and desktop application development.
 
-My focus is on building practical software with clear architecture, maintainable code, and functionality that extends beyond a local development environment.
+I enjoy understanding how the different parts of an application connect — from the interface and business logic to data persistence and the runtime environment.
 
 ---
 
-### `02` / Selected Work
+### Selected Work
 
-**01 — [SirCake](https://github.com/Abhiram918/SirCake)**
+**[SirCake](https://github.com/Abhiram918/SirCake)**
 
 A multi-vendor e-commerce project with distinct workflows for customers, sellers, and delivery personnel.
 
-`PYTHON` · `DJANGO`
+`Python` &nbsp; `Django`
 
 ---
 
-**02 — [Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
+**[Voice-Guided Object Detection](https://github.com/Abhiram918/Voice-Guided-Object-Detection)**
 
 A computer vision project combining object detection with voice-guided interaction.
 
-`PYTHON` · `OPENCV` · `YOLOv3`
+`Python` &nbsp; `OpenCV` &nbsp; `YOLOv3`
 
 ---
 
-**03 — Balance**
+**Balance**
 
 A Windows digital wellbeing application built with Flutter, focused on application usage tracking, app limits, and focus sessions.
 
-`FLUTTER` · `DART` · `WINDOWS`
+`Flutter` &nbsp; `Dart` &nbsp; `Windows`
 
 ---
 
-### `03` / Technology
+### Technical Skills
 
-| Layer | Technologies |
+| Area | Technologies |
 | :--- | :--- |
-| **Frontend** | `JavaScript` `HTML5` `CSS3` |
-| **Backend** | `Python` `Django` `Django REST Framework` |
-| **APIs & Security** | `REST APIs` `JWT Authentication` |
-| **Databases** | `MySQL` `SQLite` `MongoDB` |
-| **AI & Computer Vision** | `OpenCV` `YOLOv3` `AI API Integration` |
-| **Cloud & Deployment** | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` |
-| **Desktop Development** | `Flutter` `Dart` `Windows` |
-| **Tools** | `Git` `GitHub Actions` `Docker` `Figma` |
+| Frontend | `JavaScript` `HTML5` `CSS3` |
+| Backend | `Python` `Django` `Django REST Framework` |
+| APIs & Authentication | `REST APIs` `JWT` |
+| Databases | `MySQL` `SQLite` `MongoDB` |
+| AI & Computer Vision | `OpenCV` `YOLOv3` `AI API Integration` |
+| Cloud & Deployment | `AWS EC2` `AWS S3` `AWS RDS` `Linux` `Nginx` `Gunicorn` |
+| Desktop Development | `Flutter` `Dart` |
+| Tools | `Git` `GitHub Actions` `Docker` `Figma` |
 
 ---
 
-### `04` / Engineering
+### Engineering Approach
 
-```text
-INTERFACE
-  └── Build clear, usable experiences
+I approach development as a connected process: understand the problem, structure the data, build the application logic, develop the interface, and make sure the software runs in its intended environment.
 
-APPLICATION
-  └── Implement business logic and API integration
-
-DATA
-  └── Structure, persist, and retrieve information
-
-DEPLOYMENT
-  └── Configure services and run applications
-```
-
-I enjoy working across these layers and understanding how they connect to form a complete product.
+I'm interested in projects that encourage thoughtful engineering decisions, maintainable code, and a better understanding of how complete software systems work.
 
 ---
 
-### `05` / Contact
+### Contact
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Abhiram918"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/abhiramshibu"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Abhiramshibu918@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
-</div>
-
-<br>
-
-<div align="center">
-
-`BUILD / TEST / ITERATE`
-
 </div>
 
 <br>
