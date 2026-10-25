@@ -4,29 +4,27 @@
 
 ## About Me
 
-I'm a Full-Stack Developer based in India, focused on building complete web applications, reliable backend systems, and practical software products.
+I'm a BCA graduate and Full-Stack Developer who enjoys building practical applications, from designing user interfaces to developing backend systems and deploying applications. My primary stack is Python, Django, JavaScript, and MySQL, with experience in REST API development, role-based authentication, and AWS deployment.
 
-I work with Python, Django, JavaScript, and relational databases across frontend development, backend engineering, API integration, and deployment. My projects also explore computer vision and Windows desktop application development.
-
-I enjoy turning requirements into working applications, with an emphasis on maintainable code, clear architecture, and functionality that holds up beyond development.
+I've worked on multi-vendor platforms, AI-based object detection, and Windows desktop applications. I focus on writing maintainable code, solving real-world problems, and understanding how different parts of an application work together.
 
 ## Skills
 
 | Area | Technologies |
 |---|---|
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5 |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5, Chart.js |
 | **Backend** | Python, Django, Django REST Framework, REST APIs, JWT |
 | **Databases** | MySQL, MongoDB, SQLite |
-| **Cloud & Deployment** | AWS EC2, AWS RDS, AWS S3, Nginx, Gunicorn |
-| **AI & Computer Vision** | Python, OpenCV, YOLOv3 |
-| **Tools & Practices** | Git, GitHub, GitHub Actions, Linux, Postman, Figma |
+| **Cloud & Deployment** | AWS EC2, AWS RDS, AWS S3, Nginx, Gunicorn, GitHub Actions |
+| **AI & Computer Vision** | OpenCV, YOLOv3 |
+| **Tools & Practices** | Git, GitHub, Linux, Postman, Figma, Role-Based Access Control |
 
 ## Selected Projects
 
-### ClickMart
+### 01. ClickMart
 **Multi-Vendor E-Commerce Platform**
 
-An e-commerce platform with customer, seller, and admin workflows, including product management, cart functionality, order processing, and reviews. Implements JWT authentication, role-based access control, and optimized database queries.
+A multi-vendor marketplace with separate customer, seller, and admin workflows. Features include product management, shopping cart, order processing, reviews, JWT authentication, and role-based access control. Includes database query optimization and experience with AWS deployment.
 
 `Python` `Django` `MySQL` `AWS` `JWT`
 
@@ -34,31 +32,10 @@ An e-commerce platform with customer, seller, and admin workflows, including pro
 
 ---
 
-### SirCake
-**Multi-Vendor Cake Marketplace**
-
-A Django-based marketplace with separate Admin, Customer, Seller, and Delivery Agent roles. Includes role-specific dashboards, bakery approval workflows, sales metrics, and synchronized order statuses across parent orders and seller sub-orders.
-
-`Python` `Django` `MySQL` `JavaScript` `Chart.js`
-
-[View Repository](https://github.com/Abhiram918/SirCake-A-cake-vendor-platform)
-
----
-### Dress Customization System
-**Custom Apparel Platform**
-
-A Django application that lets users customize apparel through configurable options, with dynamic pricing and interface updates. Uses modular database models to manage customization choices.
-
-`Python` `Django` `MySQL` `JavaScript`
-
-[View Repository](https://github.com/Abhiram918/custom-dress-platform)
-
----
-
-### Voice-Guided Object Detection
+### 02. Voice-Guided Object Detection
 **Assistive Computer Vision Application**
 
-A real-time object detection application designed to assist visually impaired users. Uses computer vision to identify everyday obstacles and text-to-speech feedback to communicate detected objects and spatial information.
+A real-time object detection system designed to assist visually impaired users. Uses OpenCV and YOLOv3 to identify everyday objects and provides text-to-speech feedback about detected objects and spatial information. Includes optimizations for CPU-based inference.
 
 `Python` `OpenCV` `YOLOv3` `Text-to-Speech`
 
@@ -66,15 +43,36 @@ A real-time object detection application designed to assist visually impaired us
 
 ---
 
-### Balance
+### 03. Balance
 **Windows Digital Wellbeing Application**
 
-A Flutter desktop application focused on tracking application usage, managing daily app limits, and supporting focused work sessions. Includes local data persistence and Windows-specific integration.
+A Flutter desktop application designed to help users understand and manage their computer usage. Features application usage tracking, daily app limits, focus sessions, Windows integration, and local data persistence.
 
 `Flutter` `Dart` `SQLite` `Windows`
 
 [View Repository](https://github.com/Abhiram918/balance)
 
+---
+
+### 04. SirCake
+**Multi-Vendor Cake Marketplace**
+
+A Django-based marketplace with dedicated roles for administrators, customers, sellers, and delivery agents. Includes role-specific dashboards, bakery approval workflows, sales and revenue analytics, and synchronized order statuses across parent orders and seller sub-orders.
+
+`Python` `Django` `MySQL` `JavaScript` `Chart.js`
+
+[View Repository](https://github.com/Abhiram918/SirCake-A-cake-vendor-platform)
+
+---
+
+### 05. Dress Customization System
+**Custom Apparel Platform**
+
+A Django application that lets users customize apparel through configurable options. Includes dynamic pricing, interactive interface updates, and modular MySQL models to manage customization choices.
+
+`Python` `Django` `MySQL` `JavaScript` `HTML` `CSS`
+
+[View Repository](https://github.com/Abhiram918/custom-dress-platform)
 
 ## Contact
 
