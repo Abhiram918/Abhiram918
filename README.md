@@ -64,6 +64,8 @@ A real-time object detection application designed to assist visually impaired us
 
 [View Repository](https://github.com/Abhiram918/Voice-Guided-Object-Detection)
 
+---
+
 ### Balance
 **Windows Digital Wellbeing Application**
 
@@ -73,7 +75,6 @@ A Flutter desktop application focused on tracking application usage, managing da
 
 [View Repository](https://github.com/Abhiram918/balance)
 
----
 
 ## Contact
 
