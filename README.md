@@ -23,14 +23,14 @@ I enjoy turning requirements into working applications, with an emphasis on main
 
 ## Selected Projects
 
-### Balance
-**Windows Digital Wellbeing Application**
+### ClickMart
+**Multi-Vendor E-Commerce Platform**
 
-A Flutter desktop application focused on tracking application usage, managing daily app limits, and supporting focused work sessions. Includes local data persistence and Windows-specific integration.
+An e-commerce platform with customer, seller, and admin workflows, including product management, cart functionality, order processing, and reviews. Implements JWT authentication, role-based access control, and optimized database queries.
 
-`Flutter` `Dart` `SQLite` `Windows`
+`Python` `Django` `MySQL` `AWS` `JWT`
 
-[View Repository](https://github.com/Abhiram918/balance)
+[View Repository](https://github.com/Abhiram918/ClickMart)
 
 ---
 
@@ -44,18 +44,6 @@ A Django-based marketplace with separate Admin, Customer, Seller, and Delivery A
 [View Repository](https://github.com/Abhiram918/SirCake-A-cake-vendor-platform)
 
 ---
-
-### ClickMart
-**Multi-Vendor E-Commerce Platform**
-
-An e-commerce platform with customer, seller, and admin workflows, including product management, cart functionality, order processing, and reviews. Implements JWT authentication, role-based access control, and optimized database queries.
-
-`Python` `Django` `MySQL` `AWS` `JWT`
-
-[View Repository](https://github.com/Abhiram918/ClickMart)
-
----
-
 ### Dress Customization System
 **Custom Apparel Platform**
 
@@ -75,6 +63,17 @@ A real-time object detection application designed to assist visually impaired us
 `Python` `OpenCV` `YOLOv3` `Text-to-Speech`
 
 [View Repository](https://github.com/Abhiram918/Voice-Guided-Object-Detection)
+
+### Balance
+**Windows Digital Wellbeing Application**
+
+A Flutter desktop application focused on tracking application usage, managing daily app limits, and supporting focused work sessions. Includes local data persistence and Windows-specific integration.
+
+`Flutter` `Dart` `SQLite` `Windows`
+
+[View Repository](https://github.com/Abhiram918/balance)
+
+---
 
 ## Contact
 
