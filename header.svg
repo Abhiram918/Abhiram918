@@ -34,34 +34,7 @@
   </text>
 
   <!-- Nothing Glyph -->
-  <g>
 
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 1300 110"
-      to="360 1300 110"
-      dur="60s"
-      repeatCount="indefinite"/>
-
-    <circle cx="1300"
-            cy="110"
-            r="40"
-            fill="none"
-            stroke="#1E1E1E"/>
-
-    <circle cx="1300"
-            cy="110"
-            r="24"
-            fill="none"
-            stroke="#2B2B2B"/>
-
-    <circle cx="1340"
-            cy="110"
-            r="2"
-            fill="#777777"/>
-
-  </g>
 
   <!-- Name -->
   <text x="750"
